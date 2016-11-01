@@ -1,2 +1,2 @@
 # Matlab_siclid_analysis
-code for analyzing SICLID data
+Code for analyzing SICLID data
